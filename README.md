@@ -1,6 +1,6 @@
 # Ejercicio Practico 1
 
-##Integrantes
+##Integrantes grupo 5
   
     Jimmy Rivera
     Grace Proaño
